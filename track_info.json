@@ -1,1262 +1,1117 @@
 {
-    "2015" : [
+        "2015":[
         {
-            "Australia" : 
-            {
-                "country" : "Australia",
-                "track_name" : "Albert Park",
-                "length" : "5.03km",
-                "turns" : "16",
-                "laps" : "58",
-                "race_distance" : "307.574km"
+            "Australia":{
+                "country":"Australia",
+                "track_name":"Albert Park",
+                "length":"5.03km",
+                "turns":"16",
+                "laps":"58",
+                "race_distance":"307.574km"
             },
-            "Malaysia" : 
-            {
-                "country" : "Malaysia", 
-                "track_name" : "Sepang",
-                "length" : "5.453km",
-                "turs" : "15",
-                "laps" : "56",
-                "race_disatnce" : "310.408km"
+            "Malaysia":{
+                "country":"Malaysia",
+                "track_name":"Sepang",
+                "length":"5.453km",
+                "turs":"15",
+                "laps":"56",
+                "race_disatnce":"310.408km"
             },
-            "China" :
-            {
-                "country" : "China",
-                "track_name" : "Shanghai", 
-                "length" : "5.541km",
-                "turns" : "16",
-                "laps" : "56",
-                "race_distance" : "305.066km" 
+            "China":{
+                "country":"China",
+                "track_name":"Shanghai",
+                "length":"5.541km",
+                "turns":"16",
+                "laps":"56",
+                "race_distance":"305.066km"
             },
-            "Bahrian" :
-            {
-                "country" : "Bahrain",
-                "track_name" : "Bahrain",
-                "length" : "5.412km",
-                "turns" : "15",
-                "laps" : "57",
-                "race_distance" : "308.238km"
+            "Bahrian":{
+                "country":"Bahrain",
+                "track_name":"Bahrain",
+                "length":"5.412km",
+                "turns":"15",
+                "laps":"57",
+                "race_distance":"308.238km"
             },
-            "Spain" : 
-            {
-                "country" : "Spain", 
-                "track_name" : "Circuit De Barcelona-Catalunya",
-                "length" : "4.655km",
-                "turns" : "16",
-                "laps" : "66",
-                "race_distance" : "307.104km"
+            "Spain":{
+                "country":"Spain",
+                "track_name":"Circuit De Barcelona-Catalunya",
+                "length":"4.655km",
+                "turns":"16",
+                "laps":"66",
+                "race_distance":"307.104km"
             },
-            "Monaco" :
-            {
-                "country" : "Monaco", 
-                "track" : "Monaco",
-                "length" : "3.337km",
-                "turns" : "19",
-                "laps" : "78",
-                "race_distance" : "260.286km"
+            "Monaco":{
+                "country":"Monaco",
+                "track":"Monaco",
+                "length":"3.337km",
+                "turns":"19",
+                "laps":"78",
+                "race_distance":"260.286km"
             },
-            "Canada" :
-            {
-                "county" : "Canada",
-                "track" : "Gilles-Villeneuve",
-                "length" : "4.361km",
-                "turns" : "14",
-                "laps" : "70", 
-                "race_distance" : "305.27km"
+            "Canada":{
+                "county":"Canada",
+                "track":"Gilles-Villeneuve",
+                "length":"4.361km",
+                "turns":"14",
+                "laps":"70",
+                "race_distance":"305.27km"
             },
-            "Austria" : 
-            {
-                "country" : "Austria", 
-                "track" : "Red Bull Ring",
-                "length" : "4.318km", 
-                "turns" : "10",
-                "laps" : "71",
-                "race_distance" : "306.452km"
+            "Austria":{
+                "country":"Austria",
+                "track":"Red Bull Ring",
+                "length":"4.318km",
+                "turns":"10",
+                "laps":"71",
+                "race_distance":"306.452km"
             },
-            "Britain" : 
-            {
-                "country" : "Britain", 
-                "track" : "Silverstone", 
-                "length" : "5.891km",
-                "turns" : "18",
-                "laps" : "52", 
-                "race_distance" : "306.198km"
+            "Britain":{
+                "country":"Britain",
+                "track":"Silverstone",
+                "length":"5.891km",
+                "turns":"18",
+                "laps":"52",
+                "race_distance":"306.198km"
             },
-            "Hungary" : 
-            {
-                "country" : "Hungary",
-                "track" : "Hungaroring",
-                "length" : "4.381km",
-                "turns" : "14", 
-                "laps" : "70", 
-                "race_distance" : "306.63km"
-            }, 
-            "Belguim" : 
-            {
-                "country" : "Belgium", 
-                "track" : "Spa-Francorchamps",
-                "length" : "7.004km",
-                "turns" : "19",
-                "laps" : "44", 
-                "race_distance" : "308.052km"
+            "Hungary":{
+                "country":"Hungary",
+                "track":"Hungaroring",
+                "length":"4.381km",
+                "turns":"14",
+                "laps":"70",
+                "race_distance":"306.63km"
             },
-            "Italy" : 
-            {
-                "country" : "Italy",
-                "track" : "Monza",
-                "length" : "5.793km",
-                "turns" : "11",
-                "laps" : "53", 
-                "race_distance" : "306.72km"
+            "Belguim":{
+                "country":"Belgium",
+                "track":"Spa-Francorchamps",
+                "length":"7.004km",
+                "turns":"19",
+                "laps":"44",
+                "race_distance":"308.052km"
             },
-            "Singapore" : 
-            {
-                "country" : "Singapore",
-                "track" : "Marina Bay Street Circuit", 
-                "length" : "5.065km",
-                "turns" : "23", 
-                "laps" : "61",
-                "race_distance" : "308.828km"
-                
+            "Italy":{
+                "country":"Italy",
+                "track":"Monza",
+                "length":"5.793km",
+                "turns":"11",
+                "laps":"53",
+                "race_distance":"306.72km"
             },
-            "Japan" : 
-            {
-                "country" : "Japan",
-                "track" : "Suzuka", 
-                "length" : "5.807km", 
-                "turns" : "18", 
-                "laps" : "53",
-                "race_distance" : "307.471km"
+            "Singapore":{
+                "country":"Singapore",
+                "track":"Marina Bay Street Circuit",
+                "length":"5.065km",
+                "turns":"23",
+                "laps":"61",
+                "race_distance":"308.828km"
             },
-            "Russia" : 
-            {
-                "country" : "Russia",
-                "track" : "Sochi Autodrom",
-                "length" : "5.848km",
-                "turns" : "18",
-                "laps" : "53",
-                "race_distance" : "309.745km"
+            "Japan":{
+                "country":"Japan",
+                "track":"Suzuka",
+                "length":"5.807km",
+                "turns":"18",
+                "laps":"53",
+                "race_distance":"307.471km"
             },
-            "USA" :
-            {
-                "country" : "USA",
-                "track" : "Circuit of The Americas",
-                "length" : "5.513km",
-                "turns" : "20",
-                "laps" : "56",
-                "race_distance" : "308.405km"
-
+            "Russia":{
+                "country":"Russia",
+                "track":"Sochi Autodrom",
+                "length":"5.848km",
+                "turns":"18",
+                "laps":"53",
+                "race_distance":"309.745km"
             },
-            "Mexico" :
-            {
-                "country" : "Mexico", 
-                "track" : "Mexico City",
-                "length" : "4.304km",
-                "turns" : "17",
-                "laps" : "71",
-                "race_distance" : "305.354km"
+            "USA":{
+                "country":"USA",
+                "track":"Circuit of The Americas",
+                "length":"5.513km",
+                "turns":"20",
+                "laps":"56",
+                "race_distance":"308.405km"
             },
-            "Brazil" : 
-            {
-                "country" : "Brazil", 
-                "track" : "Sao Paulo",
-                "length" : "4.309km",
-                "turns" : "15",
-                "laps" : "71",
-                "race_distance" : "305.909km"
+            "Mexico":{
+                "country":"Mexico",
+                "track":"Mexico City",
+                "length":"4.304km",
+                "turns":"17",
+                "laps":"71",
+                "race_distance":"305.354km"
             },
-            "Abu Dhabi" :
-            {
-                "country" : "Abu Dhabi",
-                "track" : "Yas Marina", 
-                "length" : "5.281km",
-                "turns" : "16",
-                "laps" : "58",
-                "race_distance" : "306.183km"
+            "Brazil":{
+                "country":"Brazil",
+                "track":"Sao Paulo",
+                "length":"4.309km",
+                "turns":"15",
+                "laps":"71",
+                "race_distance":"305.909km"
+            },
+            "Abu Dhabi":{
+                "country":"Abu Dhabi",
+                "track":"Yas Marina",
+                "length":"5.281km",
+                "turns":"16",
+                "laps":"58",
+                "race_distance":"306.183km"
             }
         }
     ],
-    "2016" : [
+    "2016":[
         {
-            "Australia" : 
-            {
-                "country" : "Australia",
-                "track_name" : "Albert Park",
-                "length" : "5.03km",
-                "turns" : "16",
-                "laps" : "58",
-                "race_distance" : "307.574km"
+            "Australia":{
+                "country":"Australia",
+                "track_name":"Albert Park",
+                "length":"5.03km",
+                "turns":"16",
+                "laps":"58",
+                "race_distance":"307.574km"
             },
-            "Bahrian" :
-            {
-                "country" : "Bahrain",
-                "track_name" : "Bahrain",
-                "length" : "5.412km",
-                "turns" : "15",
-                "laps" : "57",
-                "race_distance" : "308.238km"
+            "Bahrian":{
+                "country":"Bahrain",
+                "track_name":"Bahrain",
+                "length":"5.412km",
+                "turns":"15",
+                "laps":"57",
+                "race_distance":"308.238km"
             },
-            "China" :
-            {
-                "country" : "China",
-                "track_name" : "Shanghai", 
-                "length" : "5.541km",
-                "turns" : "16",
-                "laps" : "56",
-                "race_distance" : "305.066km" 
+            "China":{
+                "country":"China",
+                "track_name":"Shanghai",
+                "length":"5.541km",
+                "turns":"16",
+                "laps":"56",
+                "race_distance":"305.066km"
             },
-            "Russia" : 
-            {
-                "country" : "Russia",
-                "track" : "Sochi Autodrom",
-                "length" : "5.848km",
-                "turns" : "18",
-                "laps" : "53",
-                "race_distance" : "309.745km"
+            "Russia":{
+                "country":"Russia",
+                "track":"Sochi Autodrom",
+                "length":"5.848km",
+                "turns":"18",
+                "laps":"53",
+                "race_distance":"309.745km"
             },
-            "Spain" : 
-            {
-                "country" : "Spain", 
-                "track_name" : "Circuit De Barcelona-Catalunya",
-                "length" : "4.655km",
-                "turns" : "16",
-                "laps" : "66",
-                "race_distance" : "307.104km"
+            "Spain":{
+                "country":"Spain",
+                "track_name":"Circuit De Barcelona-Catalunya",
+                "length":"4.655km",
+                "turns":"16",
+                "laps":"66",
+                "race_distance":"307.104km"
             },
-            "Monaco" :
-            {
-                "country" : "Monaco", 
-                "track" : "Monaco",
-                "length" : "3.337km",
-                "turns" : "19",
-                "laps" : "78",
-                "race_distance" : "260.286km"
+            "Monaco":{
+                "country":"Monaco",
+                "track":"Monaco",
+                "length":"3.337km",
+                "turns":"19",
+                "laps":"78",
+                "race_distance":"260.286km"
             },
-            "Canada" :
-            {
-                "county" : "Canada",
-                "track" : "Gilles-Villeneuve",
-                "length" : "4.361km",
-                "turns" : "14",
-                "laps" : "70", 
-                "race_distance" : "305.27km"
+            "Canada":{
+                "county":"Canada",
+                "track":"Gilles-Villeneuve",
+                "length":"4.361km",
+                "turns":"14",
+                "laps":"70",
+                "race_distance":"305.27km"
             },
-            "Azerbaijan" :
-            {
-                "country" : "Azerbaijan",
-                "track" : "Baku City Circuit",
-                "length" : "6.003km",
-                "turns" : "20",
-                "laps" : "51", 
-                "race_distance" : "306.049km"
-            },  
-            "Austria" : 
-            {
-                "country" : "Austria", 
-                "track" : "Red Bull Ring",
-                "length" : "4.318km", 
-                "turns" : "10",
-                "laps" : "71",
-                "race_distance" : "306.452km"
-            }, 
-            "Britain" : 
-            {
-                "country" : "Britain", 
-                "track" : "Silverstone", 
-                "length" : "5.891km",
-                "turns" : "18",
-                "laps" : "52", 
-                "race_distance" : "306.198km"
+            "Azerbaijan":{
+                "country":"Azerbaijan",
+                "track":"Baku City Circuit",
+                "length":"6.003km",
+                "turns":"20",
+                "laps":"51",
+                "race_distance":"306.049km"
             },
-            "Hungary" : 
-            {
-                "country" : "Hungary",
-                "track" : "Hungaroring",
-                "length" : "4.381km",
-                "turns" : "14", 
-                "laps" : "70", 
-                "race_distance" : "306.63km"
-            }, 
-            "Germany" : 
-            {
-                "country" : "Germany", 
-                "track" : "Hockenheimring", 
-                "length" : "4.574km",
-                "turns" : "17",
-                "laps" : "67",
-                "race_distance" : "306.458km"
+            "Austria":{
+                "country":"Austria",
+                "track":"Red Bull Ring",
+                "length":"4.318km",
+                "turns":"10",
+                "laps":"71",
+                "race_distance":"306.452km"
             },
-            "Belguim" : 
-            {
-                "country" : "Belgium", 
-                "track" : "Spa-Francorchamps",
-                "length" : "7.004km",
-                "turns" : "19",
-                "laps" : "44", 
-                "race_distance" : "308.052km"
+            "Britain":{
+                "country":"Britain",
+                "track":"Silverstone",
+                "length":"5.891km",
+                "turns":"18",
+                "laps":"52",
+                "race_distance":"306.198km"
             },
-            "Italy" : 
-            {
-                "country" : "Italy",
-                "track" : "Monza",
-                "length" : "5.793km",
-                "turns" : "11",
-                "laps" : "53", 
-                "race_distance" : "306.72km"
+            "Hungary":{
+                "country":"Hungary",
+                "track":"Hungaroring",
+                "length":"4.381km",
+                "turns":"14",
+                "laps":"70",
+                "race_distance":"306.63km"
             },
-            "Singapore" : 
-            {
-                "country" : "Singapore",
-                "track" : "Marina Bay Street Circuit", 
-                "length" : "5.065km",
-                "turns" : "23", 
-                "laps" : "61",
-                "race_distance" : "308.828km"
-                
+            "Germany":{
+                "country":"Germany",
+                "track":"Hockenheimring",
+                "length":"4.574km",
+                "turns":"17",
+                "laps":"67",
+                "race_distance":"306.458km"
             },
-            "Malaysia" : 
-            {
-                "country" : "Malaysia", 
-                "track_name" : "Sepang",
-                "length" : "5.453km",
-                "turs" : "15",
-                "laps" : "56",
-                "race_disatnce" : "310.408km"
+            "Belguim":{
+                "country":"Belgium",
+                "track":"Spa-Francorchamps",
+                "length":"7.004km",
+                "turns":"19",
+                "laps":"44",
+                "race_distance":"308.052km"
             },
-            "Japan" : 
-            {
-                "country" : "Japan",
-                "track" : "Suzuka", 
-                "length" : "5.807km", 
-                "turns" : "18", 
-                "laps" : "53",
-                "race_distance" : "307.471km"
+            "Italy":{
+                "country":"Italy",
+                "track":"Monza",
+                "length":"5.793km",
+                "turns":"11",
+                "laps":"53",
+                "race_distance":"306.72km"
             },
-            "USA" :
-            {
-                "country" : "USA",
-                "track" : "Circuit of The Americas",
-                "length" : "5.513km",
-                "turns" : "20",
-                "laps" : "56",
-                "race_distance" : "308.405km"
-
+            "Singapore":{
+                "country":"Singapore",
+                "track":"Marina Bay Street Circuit",
+                "length":"5.065km",
+                "turns":"23",
+                "laps":"61",
+                "race_distance":"308.828km"
             },
-            "Mexico" :
-            {
-                "country" : "Mexico", 
-                "track" : "Mexico City",
-                "length" : "4.304km",
-                "turns" : "17",
-                "laps" : "71",
-                "race_distance" : "305.354km"
+            "Malaysia":{
+                "country":"Malaysia",
+                "track_name":"Sepang",
+                "length":"5.453km",
+                "turs":"15",
+                "laps":"56",
+                "race_disatnce":"310.408km"
             },
-            "Brazil" : 
-            {
-                "country" : "Brazil", 
-                "track" : "Sao Paulo",
-                "length" : "4.309km",
-                "turns" : "15",
-                "laps" : "71",
-                "race_distance" : "305.909km"
+            "Japan":{
+                "country":"Japan",
+                "track":"Suzuka",
+                "length":"5.807km",
+                "turns":"18",
+                "laps":"53",
+                "race_distance":"307.471km"
             },
-            "Abu Dhabi" :
-            {
-                "country" : "Abu Dhabi",
-                "track" : "Yas Marina", 
-                "length" : "5.281km",
-                "turns" : "16",
-                "laps" : "58",
-                "race_distance" : "306.183km"
+            "USA":{
+                "country":"USA",
+                "track":"Circuit of The Americas",
+                "length":"5.513km",
+                "turns":"20",
+                "laps":"56",
+                "race_distance":"308.405km"
+            },
+            "Mexico":{
+                "country":"Mexico",
+                "track":"Mexico City",
+                "length":"4.304km",
+                "turns":"17",
+                "laps":"71",
+                "race_distance":"305.354km"
+            },
+            "Brazil":{
+                "country":"Brazil",
+                "track":"Sao Paulo",
+                "length":"4.309km",
+                "turns":"15",
+                "laps":"71",
+                "race_distance":"305.909km"
+            },
+            "Abu Dhabi":{
+                "country":"Abu Dhabi",
+                "track":"Yas Marina",
+                "length":"5.281km",
+                "turns":"16",
+                "laps":"58",
+                "race_distance":"306.183km"
             }
         }
     ],
-    "2017" : [
+    "2017":[
         {
-            "Australia" : 
-            {
-                "country" : "Australia",
-                "track_name" : "Albert Park",
-                "length" : "5.03km",
-                "turns" : "16",
-                "laps" : "58",
-                "race_distance" : "307.574km"
+            "Australia":{
+                "country":"Australia",
+                "track_name":"Albert Park",
+                "length":"5.03km",
+                "turns":"16",
+                "laps":"58",
+                "race_distance":"307.574km"
             },
-            "China" :
-            {
-                "country" : "China",
-                "track_name" : "Shanghai", 
-                "length" : "5.541km",
-                "turns" : "16",
-                "laps" : "56",
-                "race_distance" : "305.066km" 
+            "China":{
+                "country":"China",
+                "track_name":"Shanghai",
+                "length":"5.541km",
+                "turns":"16",
+                "laps":"56",
+                "race_distance":"305.066km"
             },
-            "Bahrian" :
-            {
-                "country" : "Bahrain",
-                "track_name" : "Bahrain",
-                "length" : "5.412km",
-                "turns" : "15",
-                "laps" : "57",
-                "race_distance" : "308.238km"
+            "Bahrian":{
+                "country":"Bahrain",
+                "track_name":"Bahrain",
+                "length":"5.412km",
+                "turns":"15",
+                "laps":"57",
+                "race_distance":"308.238km"
             },
-            "Russia" : 
-            {
-                "country" : "Russia",
-                "track" : "Sochi Autodrom",
-                "length" : "5.848km",
-                "turns" : "18",
-                "laps" : "53",
-                "race_distance" : "309.745km"
+            "Russia":{
+                "country":"Russia",
+                "track":"Sochi Autodrom",
+                "length":"5.848km",
+                "turns":"18",
+                "laps":"53",
+                "race_distance":"309.745km"
             },
-            "Spain" : 
-            {
-                "country" : "Spain", 
-                "track_name" : "Circuit De Barcelona-Catalunya",
-                "length" : "4.655km",
-                "turns" : "16",
-                "laps" : "66",
-                "race_distance" : "307.104km"
+            "Spain":{
+                "country":"Spain",
+                "track_name":"Circuit De Barcelona-Catalunya",
+                "length":"4.655km",
+                "turns":"16",
+                "laps":"66",
+                "race_distance":"307.104km"
             },
-            "Monaco" :
-            {
-                "country" : "Monaco", 
-                "track" : "Monaco",
-                "length" : "3.337km",
-                "turns" : "19",
-                "laps" : "78",
-                "race_distance" : "260.286km"
+            "Monaco":{
+                "country":"Monaco",
+                "track":"Monaco",
+                "length":"3.337km",
+                "turns":"19",
+                "laps":"78",
+                "race_distance":"260.286km"
             },
-            "Canada" :
-            {
-                "county" : "Canada",
-                "track" : "Gilles-Villeneuve",
-                "length" : "4.361km",
-                "turns" : "14",
-                "laps" : "70", 
-                "race_distance" : "305.27km"
+            "Canada":{
+                "county":"Canada",
+                "track":"Gilles-Villeneuve",
+                "length":"4.361km",
+                "turns":"14",
+                "laps":"70",
+                "race_distance":"305.27km"
             },
-            "Azerbaijan" :
-            {
-                "country" : "Azerbaijan",
-                "track" : "Baku City Circuit",
-                "length" : "6.003km",
-                "turns" : "20",
-                "laps" : "51", 
-                "race_distance" : "306.049km"
+            "Azerbaijan":{
+                "country":"Azerbaijan",
+                "track":"Baku City Circuit",
+                "length":"6.003km",
+                "turns":"20",
+                "laps":"51",
+                "race_distance":"306.049km"
             },
-            "Austria" : 
-            {
-                "country" : "Austria", 
-                "track" : "Red Bull Ring",
-                "length" : "4.318km", 
-                "turns" : "10",
-                "laps" : "71",
-                "race_distance" : "306.452km"
-            },  
-            "Britain" : 
-            {
-                "country" : "Britain", 
-                "track" : "Silverstone", 
-                "length" : "5.891km",
-                "turns" : "18",
-                "laps" : "52", 
-                "race_distance" : "306.198km"
+            "Austria":{
+                "country":"Austria",
+                "track":"Red Bull Ring",
+                "length":"4.318km",
+                "turns":"10",
+                "laps":"71",
+                "race_distance":"306.452km"
             },
-            "Hungary" : 
-            {
-                "country" : "Hungary",
-                "track" : "Hungaroring",
-                "length" : "4.381km",
-                "turns" : "14", 
-                "laps" : "70", 
-                "race_distance" : "306.63km"
+            "Britain":{
+                "country":"Britain",
+                "track":"Silverstone",
+                "length":"5.891km",
+                "turns":"18",
+                "laps":"52",
+                "race_distance":"306.198km"
             },
-            "Belguim" : 
-            {
-                "country" : "Belgium", 
-                "track" : "Spa-Francorchamps",
-                "length" : "7.004km",
-                "turns" : "19",
-                "laps" : "44", 
-                "race_distance" : "308.052km"
+            "Hungary":{
+                "country":"Hungary",
+                "track":"Hungaroring",
+                "length":"4.381km",
+                "turns":"14",
+                "laps":"70",
+                "race_distance":"306.63km"
             },
-            "Italy" : 
-            {
-                "country" : "Italy",
-                "track" : "Monza",
-                "length" : "5.793km",
-                "turns" : "11",
-                "laps" : "53", 
-                "race_distance" : "306.72km"
+            "Belguim":{
+                "country":"Belgium",
+                "track":"Spa-Francorchamps",
+                "length":"7.004km",
+                "turns":"19",
+                "laps":"44",
+                "race_distance":"308.052km"
             },
-            "Singapore" : 
-            {
-                "country" : "Singapore",
-                "track" : "Marina Bay Street Circuit", 
-                "length" : "5.065km",
-                "turns" : "23", 
-                "laps" : "61",
-                "race_distance" : "308.828km"
-                
+            "Italy":{
+                "country":"Italy",
+                "track":"Monza",
+                "length":"5.793km",
+                "turns":"11",
+                "laps":"53",
+                "race_distance":"306.72km"
             },
-            "Malaysia" : 
-            {
-                "country" : "Malaysia", 
-                "track_name" : "Sepang",
-                "length" : "5.453km",
-                "turs" : "15",
-                "laps" : "56",
-                "race_disatnce" : "310.408km"
+            "Singapore":{
+                "country":"Singapore",
+                "track":"Marina Bay Street Circuit",
+                "length":"5.065km",
+                "turns":"23",
+                "laps":"61",
+                "race_distance":"308.828km"
             },
-            "Japan" : 
-            {
-                "country" : "Japan",
-                "track" : "Suzuka", 
-                "length" : "5.807km", 
-                "turns" : "18", 
-                "laps" : "53",
-                "race_distance" : "307.471km"
-            }, 
-            "USA" :
-            {
-                "country" : "USA",
-                "track" : "Circuit of The Americas",
-                "length" : "5.513km",
-                "turns" : "20",
-                "laps" : "56",
-                "race_distance" : "308.405km"
-
+            "Malaysia":{
+                "country":"Malaysia",
+                "track_name":"Sepang",
+                "length":"5.453km",
+                "turs":"15",
+                "laps":"56",
+                "race_disatnce":"310.408km"
             },
-            "Mexico" :
-            {
-                "country" : "Mexico", 
-                "track" : "Mexico City",
-                "length" : "4.304km",
-                "turns" : "17",
-                "laps" : "71",
-                "race_distance" : "305.354km"
+            "Japan":{
+                "country":"Japan",
+                "track":"Suzuka",
+                "length":"5.807km",
+                "turns":"18",
+                "laps":"53",
+                "race_distance":"307.471km"
             },
-            "Brazil" : 
-            {
-                "country" : "Brazil", 
-                "track" : "Sao Paulo",
-                "length" : "4.309km",
-                "turns" : "15",
-                "laps" : "71",
-                "race_distance" : "305.909km"
+            "USA":{
+                "country":"USA",
+                "track":"Circuit of The Americas",
+                "length":"5.513km",
+                "turns":"20",
+                "laps":"56",
+                "race_distance":"308.405km"
             },
-            "Abu Dhabi" :
-            {
-                "country" : "Abu Dhabi",
-                "track" : "Yas Marina", 
-                "length" : "5.281km",
-                "turns" : "16",
-                "laps" : "58",
-                "race_distance" : "306.183km"
+            "Mexico":{
+                "country":"Mexico",
+                "track":"Mexico City",
+                "length":"4.304km",
+                "turns":"17",
+                "laps":"71",
+                "race_distance":"305.354km"
+            },
+            "Brazil":{
+                "country":"Brazil",
+                "track":"Sao Paulo",
+                "length":"4.309km",
+                "turns":"15",
+                "laps":"71",
+                "race_distance":"305.909km"
+            },
+            "Abu Dhabi":{
+                "country":"Abu Dhabi",
+                "track":"Yas Marina",
+                "length":"5.281km",
+                "turns":"16",
+                "laps":"58",
+                "race_distance":"306.183km"
             }
         }
     ],
-    "2018" : [
+    "2018":[
         {
-            "Australia" : 
-            {
-                "country" : "Australia",
-                "track_name" : "Albert Park",
-                "length" : "5.03km",
-                "turns" : "16",
-                "laps" : "58",
-                "race_distance" : "307.574km"
+            "Australia":{
+                "country":"Australia",
+                "track_name":"Albert Park",
+                "length":"5.03km",
+                "turns":"16",
+                "laps":"58",
+                "race_distance":"307.574km"
             },
-            "Bahrian" :
-            {
-                "country" : "Bahrain",
-                "track_name" : "Bahrain",
-                "length" : "5.412km",
-                "turns" : "15",
-                "laps" : "57",
-                "race_distance" : "308.238km"
+            "Bahrian":{
+                "country":"Bahrain",
+                "track_name":"Bahrain",
+                "length":"5.412km",
+                "turns":"15",
+                "laps":"57",
+                "race_distance":"308.238km"
             },
-            "China" :
-            {
-                "country" : "China",
-                "track_name" : "Shanghai", 
-                "length" : "5.541km",
-                "turns" : "16",
-                "laps" : "56",
-                "race_distance" : "305.066km" 
+            "China":{
+                "country":"China",
+                "track_name":"Shanghai",
+                "length":"5.541km",
+                "turns":"16",
+                "laps":"56",
+                "race_distance":"305.066km"
             },
-            "Azerbaijan" :
-            {
-                "country" : "Azerbaijan",
-                "track" : "Baku City Circuit",
-                "length" : "6.003km",
-                "turns" : "20",
-                "laps" : "51", 
-                "race_distance" : "306.049km"
+            "Azerbaijan":{
+                "country":"Azerbaijan",
+                "track":"Baku City Circuit",
+                "length":"6.003km",
+                "turns":"20",
+                "laps":"51",
+                "race_distance":"306.049km"
             },
-            "Spain" : 
-            {
-                "country" : "Spain", 
-                "track_name" : "Circuit De Barcelona-Catalunya",
-                "length" : "4.655km",
-                "turns" : "16",
-                "laps" : "66",
-                "race_distance" : "307.104km"
+            "Spain":{
+                "country":"Spain",
+                "track_name":"Circuit De Barcelona-Catalunya",
+                "length":"4.655km",
+                "turns":"16",
+                "laps":"66",
+                "race_distance":"307.104km"
             },
-            "Monaco" :
-            {
-                "country" : "Monaco", 
-                "track" : "Monaco",
-                "length" : "3.337km",
-                "turns" : "19",
-                "laps" : "78",
-                "race_distance" : "260.286km"
+            "Monaco":{
+                "country":"Monaco",
+                "track":"Monaco",
+                "length":"3.337km",
+                "turns":"19",
+                "laps":"78",
+                "race_distance":"260.286km"
             },
-            "Canada" :
-            {
-                "county" : "Canada",
-                "track" : "Gilles-Villeneuve",
-                "length" : "4.361km",
-                "turns" : "14",
-                "laps" : "70", 
-                "race_distance" : "305.27km"
+            "Canada":{
+                "county":"Canada",
+                "track":"Gilles-Villeneuve",
+                "length":"4.361km",
+                "turns":"14",
+                "laps":"70",
+                "race_distance":"305.27km"
             },
-            "France" : 
-            {
-                "country" : "France", 
-                "track" : "Paul Ricard",
-                "length" : "5.842km",
-                "turns" : "15",
-                "laps" : "53",
-                "race_distance" : "309.69"
+            "France":{
+                "country":"France",
+                "track":"Paul Ricard",
+                "length":"5.842km",
+                "turns":"15",
+                "laps":"53",
+                "race_distance":"309.69"
             },
-            "Austria" : 
-            {
-                "country" : "Austria", 
-                "track" : "Red Bull Ring",
-                "length" : "4.318km", 
-                "turns" : "10",
-                "laps" : "71",
-                "race_distance" : "306.452km"
-            },  
-            "Britain" : 
-            {
-                "country" : "Britain", 
-                "track" : "Silverstone", 
-                "length" : "5.891km",
-                "turns" : "18",
-                "laps" : "52", 
-                "race_distance" : "306.198km"
+            "Austria":{
+                "country":"Austria",
+                "track":"Red Bull Ring",
+                "length":"4.318km",
+                "turns":"10",
+                "laps":"71",
+                "race_distance":"306.452km"
             },
-            "Germany" : 
-            {
-                "country" : "Germany", 
-                "track" : "Hockenheimring", 
-                "length" : "4.574km",
-                "turns" : "17",
-                "laps" : "67",
-                "race_distance" : "306.458km"
+            "Britain":{
+                "country":"Britain",
+                "track":"Silverstone",
+                "length":"5.891km",
+                "turns":"18",
+                "laps":"52",
+                "race_distance":"306.198km"
             },
-            "Hungary" : 
-            {
-                "country" : "Hungary",
-                "track" : "Hungaroring",
-                "length" : "4.381km",
-                "turns" : "14", 
-                "laps" : "70", 
-                "race_distance" : "306.63km"
+            "Germany":{
+                "country":"Germany",
+                "track":"Hockenheimring",
+                "length":"4.574km",
+                "turns":"17",
+                "laps":"67",
+                "race_distance":"306.458km"
             },
-            "Belguim" : 
-            {
-                "country" : "Belgium", 
-                "track" : "Spa-Francorchamps",
-                "length" : "7.004km",
-                "turns" : "19",
-                "laps" : "44", 
-                "race_distance" : "308.052km"
+            "Hungary":{
+                "country":"Hungary",
+                "track":"Hungaroring",
+                "length":"4.381km",
+                "turns":"14",
+                "laps":"70",
+                "race_distance":"306.63km"
             },
-            "Italy" : 
-            {
-                "country" : "Italy",
-                "track" : "Monza",
-                "length" : "5.793km",
-                "turns" : "11",
-                "laps" : "53", 
-                "race_distance" : "306.72km"
+            "Belguim":{
+                "country":"Belgium",
+                "track":"Spa-Francorchamps",
+                "length":"7.004km",
+                "turns":"19",
+                "laps":"44",
+                "race_distance":"308.052km"
             },
-            "Singapore" : 
-            {
-                "country" : "Singapore",
-                "track" : "Marina Bay Street Circuit", 
-                "length" : "5.065km",
-                "turns" : "23", 
-                "laps" : "61",
-                "race_distance" : "308.828km"
-                
+            "Italy":{
+                "country":"Italy",
+                "track":"Monza",
+                "length":"5.793km",
+                "turns":"11",
+                "laps":"53",
+                "race_distance":"306.72km"
             },
-            "Russia" : 
-            {
-                "country" : "Russia",
-                "track" : "Sochi Autodrom",
-                "length" : "5.848km",
-                "turns" : "18",
-                "laps" : "53",
-                "race_distance" : "309.745km"
-            }, 
-            "Japan" : 
-            {
-                "country" : "Japan",
-                "track" : "Suzuka", 
-                "length" : "5.807km", 
-                "turns" : "18", 
-                "laps" : "53",
-                "race_distance" : "307.471km"
+            "Singapore":{
+                "country":"Singapore",
+                "track":"Marina Bay Street Circuit",
+                "length":"5.065km",
+                "turns":"23",
+                "laps":"61",
+                "race_distance":"308.828km"
             },
-            "USA" :
-            {
-                "country" : "USA",
-                "track" : "Circuit of The Americas",
-                "length" : "5.513km",
-                "turns" : "20",
-                "laps" : "56",
-                "race_distance" : "308.405km"
-
+            "Russia":{
+                "country":"Russia",
+                "track":"Sochi Autodrom",
+                "length":"5.848km",
+                "turns":"18",
+                "laps":"53",
+                "race_distance":"309.745km"
             },
-            "Mexico" :
-            {
-                "country" : "Mexico", 
-                "track" : "Mexico City",
-                "length" : "4.304km",
-                "turns" : "17",
-                "laps" : "71",
-                "race_distance" : "305.354km"
+            "Japan":{
+                "country":"Japan",
+                "track":"Suzuka",
+                "length":"5.807km",
+                "turns":"18",
+                "laps":"53",
+                "race_distance":"307.471km"
             },
-            "Brazil" : 
-            {
-                "country" : "Brazil", 
-                "track" : "Sao Paulo",
-                "length" : "4.309km",
-                "turns" : "15",
-                "laps" : "71",
-                "race_distance" : "305.909km"
+            "USA":{
+                "country":"USA",
+                "track":"Circuit of The Americas",
+                "length":"5.513km",
+                "turns":"20",
+                "laps":"56",
+                "race_distance":"308.405km"
             },
-            "Abu Dhabi" :
-            {
-                "country" : "Abu Dhabi",
-                "track" : "Yas Marina", 
-                "length" : "5.281km",
-                "turns" : "16",
-                "laps" : "58",
-                "race_distance" : "306.183km"
+            "Mexico":{
+                "country":"Mexico",
+                "track":"Mexico City",
+                "length":"4.304km",
+                "turns":"17",
+                "laps":"71",
+                "race_distance":"305.354km"
+            },
+            "Brazil":{
+                "country":"Brazil",
+                "track":"Sao Paulo",
+                "length":"4.309km",
+                "turns":"15",
+                "laps":"71",
+                "race_distance":"305.909km"
+            },
+            "Abu Dhabi":{
+                "country":"Abu Dhabi",
+                "track":"Yas Marina",
+                "length":"5.281km",
+                "turns":"16",
+                "laps":"58",
+                "race_distance":"306.183km"
             }
         }
     ],
-    "2019" : [
+    "2019":[
         {
-            "Australia" : 
-            {
-                "country" : "Australia",
-                "track_name" : "Albert Park",
-                "length" : "5.03km",
-                "turns" : "16",
-                "laps" : "58",
-                "race_distance" : "307.574km"
+            "Australia":{
+                "country":"Australia",
+                "track_name":"Albert Park",
+                "length":"5.03km",
+                "turns":"16",
+                "laps":"58",
+                "race_distance":"307.574km"
             },
-            "Bahrian" :
-            {
-                "country" : "Bahrain",
-                "track_name" : "Bahrain",
-                "length" : "5.412km",
-                "turns" : "15",
-                "laps" : "57",
-                "race_distance" : "308.238km"
+            "Bahrian":{
+                "country":"Bahrain",
+                "track_name":"Bahrain",
+                "length":"5.412km",
+                "turns":"15",
+                "laps":"57",
+                "race_distance":"308.238km"
             },
-            "China" :
-            {
-                "country" : "China",
-                "track_name" : "Shanghai", 
-                "length" : "5.541km",
-                "turns" : "16",
-                "laps" : "56",
-                "race_distance" : "305.066km" 
+            "China":{
+                "country":"China",
+                "track_name":"Shanghai",
+                "length":"5.541km",
+                "turns":"16",
+                "laps":"56",
+                "race_distance":"305.066km"
             },
-            "Azerbaijan" :
-            {
-                "country" : "Azerbaijan",
-                "track" : "Baku City Circuit",
-                "length" : "6.003km",
-                "turns" : "20",
-                "laps" : "51", 
-                "race_distance" : "306.049km"
+            "Azerbaijan":{
+                "country":"Azerbaijan",
+                "track":"Baku City Circuit",
+                "length":"6.003km",
+                "turns":"20",
+                "laps":"51",
+                "race_distance":"306.049km"
             },
-            "Spain" : 
-            {
-                "country" : "Spain", 
-                "track_name" : "Circuit De Barcelona-Catalunya",
-                "length" : "4.655km",
-                "turns" : "16",
-                "laps" : "66",
-                "race_distance" : "307.104km"
+            "Spain":{
+                "country":"Spain",
+                "track_name":"Circuit De Barcelona-Catalunya",
+                "length":"4.655km",
+                "turns":"16",
+                "laps":"66",
+                "race_distance":"307.104km"
             },
-            "Monaco" :
-            {
-                "country" : "Monaco", 
-                "track" : "Monaco",
-                "length" : "3.337km",
-                "turns" : "19",
-                "laps" : "78",
-                "race_distance" : "260.286km"
+            "Monaco":{
+                "country":"Monaco",
+                "track":"Monaco",
+                "length":"3.337km",
+                "turns":"19",
+                "laps":"78",
+                "race_distance":"260.286km"
             },
-            "Canada" :
-            {
-                "county" : "Canada",
-                "track" : "Gilles-Villeneuve",
-                "length" : "4.361km",
-                "turns" : "14",
-                "laps" : "70", 
-                "race_distance" : "305.27km"
+            "Canada":{
+                "county":"Canada",
+                "track":"Gilles-Villeneuve",
+                "length":"4.361km",
+                "turns":"14",
+                "laps":"70",
+                "race_distance":"305.27km"
             },
-            "France" : 
-            {
-                "country" : "France", 
-                "track" : "Paul Ricard",
-                "length" : "5.842km",
-                "turns" : "15",
-                "laps" : "53",
-                "race_distance" : "309.69"
+            "France":{
+                "country":"France",
+                "track":"Paul Ricard",
+                "length":"5.842km",
+                "turns":"15",
+                "laps":"53",
+                "race_distance":"309.69"
             },
-            "Austria" : 
-            {
-                "country" : "Austria", 
-                "track" : "Red Bull Ring",
-                "length" : "4.318km", 
-                "turns" : "10",
-                "laps" : "71",
-                "race_distance" : "306.452km"
-            },  
-            "Britain" : 
-            {
-                "country" : "Britain", 
-                "track" : "Silverstone", 
-                "length" : "5.891km",
-                "turns" : "18",
-                "laps" : "52", 
-                "race_distance" : "306.198km"
+            "Austria":{
+                "country":"Austria",
+                "track":"Red Bull Ring",
+                "length":"4.318km",
+                "turns":"10",
+                "laps":"71",
+                "race_distance":"306.452km"
             },
-            "Germany" : 
-            {
-                "country" : "Germany", 
-                "track" : "Hockenheimring", 
-                "length" : "4.574km",
-                "turns" : "17",
-                "laps" : "67",
-                "race_distance" : "306.458km"
+            "Britain":{
+                "country":"Britain",
+                "track":"Silverstone",
+                "length":"5.891km",
+                "turns":"18",
+                "laps":"52",
+                "race_distance":"306.198km"
             },
-            "Hungary" : 
-            {
-                "country" : "Hungary",
-                "track" : "Hungaroring",
-                "length" : "4.381km",
-                "turns" : "14", 
-                "laps" : "70", 
-                "race_distance" : "306.63km"
+            "Germany":{
+                "country":"Germany",
+                "track":"Hockenheimring",
+                "length":"4.574km",
+                "turns":"17",
+                "laps":"67",
+                "race_distance":"306.458km"
             },
-            "Belguim" : 
-            {
-                "country" : "Belgium", 
-                "track" : "Spa-Francorchamps",
-                "length" : "7.004km",
-                "turns" : "19",
-                "laps" : "44", 
-                "race_distance" : "308.052km"
+            "Hungary":{
+                "country":"Hungary",
+                "track":"Hungaroring",
+                "length":"4.381km",
+                "turns":"14",
+                "laps":"70",
+                "race_distance":"306.63km"
             },
-            "Italy" : 
-            {
-                "country" : "Italy",
-                "track" : "Monza",
-                "length" : "5.793km",
-                "turns" : "11",
-                "laps" : "53", 
-                "race_distance" : "306.72km"
+            "Belguim":{
+                "country":"Belgium",
+                "track":"Spa-Francorchamps",
+                "length":"7.004km",
+                "turns":"19",
+                "laps":"44",
+                "race_distance":"308.052km"
             },
-            "Singapore" : 
-            {
-                "country" : "Singapore",
-                "track" : "Marina Bay Street Circuit", 
-                "length" : "5.065km",
-                "turns" : "23", 
-                "laps" : "61",
-                "race_distance" : "308.828km"
-                
+            "Italy":{
+                "country":"Italy",
+                "track":"Monza",
+                "length":"5.793km",
+                "turns":"11",
+                "laps":"53",
+                "race_distance":"306.72km"
             },
-            "Russia" : 
-            {
-                "country" : "Russia",
-                "track" : "Sochi Autodrom",
-                "length" : "5.848km",
-                "turns" : "18",
-                "laps" : "53",
-                "race_distance" : "309.745km"
-            }, 
-            "Japan" : 
-            {
-                "country" : "Japan",
-                "track" : "Suzuka", 
-                "length" : "5.807km", 
-                "turns" : "18", 
-                "laps" : "53",
-                "race_distance" : "307.471km"
+            "Singapore":{
+                "country":"Singapore",
+                "track":"Marina Bay Street Circuit",
+                "length":"5.065km",
+                "turns":"23",
+                "laps":"61",
+                "race_distance":"308.828km"
             },
-            "Mexico" :
-            {
-                "country" : "Mexico", 
-                "track" : "Mexico City",
-                "length" : "4.304km",
-                "turns" : "17",
-                "laps" : "71",
-                "race_distance" : "305.354km"
+            "Russia":{
+                "country":"Russia",
+                "track":"Sochi Autodrom",
+                "length":"5.848km",
+                "turns":"18",
+                "laps":"53",
+                "race_distance":"309.745km"
             },
-            "USA" :
-            {
-                "country" : "USA",
-                "track" : "Circuit of The Americas",
-                "length" : "5.513km",
-                "turns" : "20",
-                "laps" : "56",
-                "race_distance" : "308.405km"
+            "Japan":{
+                "country":"Japan",
+                "track":"Suzuka",
+                "length":"5.807km",
+                "turns":"18",
+                "laps":"53",
+                "race_distance":"307.471km"
             },
-            "Brazil" : 
-            {
-                "country" : "Brazil", 
-                "track" : "Sao Paulo",
-                "length" : "4.309km",
-                "turns" : "15",
-                "laps" : "71",
-                "race_distance" : "305.909km"
+            "Mexico":{
+                "country":"Mexico",
+                "track":"Mexico City",
+                "length":"4.304km",
+                "turns":"17",
+                "laps":"71",
+                "race_distance":"305.354km"
             },
-            "Abu Dhabi" :
-            {
-                "country" : "Abu Dhabi",
-                "track" : "Yas Marina", 
-                "length" : "5.281km",
-                "turns" : "16",
-                "laps" : "58",
-                "race_distance" : "306.183km"
+            "USA":{
+                "country":"USA",
+                "track":"Circuit of The Americas",
+                "length":"5.513km",
+                "turns":"20",
+                "laps":"56",
+                "race_distance":"308.405km"
+            },
+            "Brazil":{
+                "country":"Brazil",
+                "track":"Sao Paulo",
+                "length":"4.309km",
+                "turns":"15",
+                "laps":"71",
+                "race_distance":"305.909km"
+            },
+            "Abu Dhabi":{
+                "country":"Abu Dhabi",
+                "track":"Yas Marina",
+                "length":"5.281km",
+                "turns":"16",
+                "laps":"58",
+                "race_distance":"306.183km"
             }
         }
     ],
-    "2020" : [
+    "2020":[
         {
-            "Austria" : 
-            {
-                "country" : "Austria", 
-                "track" : "Red Bull Ring",
-                "length" : "4.318km", 
-                "turns" : "10",
-                "laps" : "71",
-                "race_distance" : "306.452km"
+            "Austria":{
+                "country":"Austria",
+                "track":"Red Bull Ring",
+                "length":"4.318km",
+                "turns":"10",
+                "laps":"71",
+                "race_distance":"306.452km"
             },
-            "Styria" : 
-            {
-                "country" : "Austria", 
-                "track" : "Red Bull Ring",
-                "length" : "4.318km", 
-                "turns" : "10",
-                "laps" : "71",
-                "race_distance" : "306.452km"
+            "Styria":{
+                "country":"Austria",
+                "track":"Red Bull Ring",
+                "length":"4.318km",
+                "turns":"10",
+                "laps":"71",
+                "race_distance":"306.452km"
             },
-            "Hungary" : 
-            {
-                "country" : "Hungary",
-                "track" : "Hungaroring",
-                "length" : "4.381km",
-                "turns" : "14", 
-                "laps" : "70", 
-                "race_distance" : "306.63km"
+            "Hungary":{
+                "country":"Hungary",
+                "track":"Hungaroring",
+                "length":"4.381km",
+                "turns":"14",
+                "laps":"70",
+                "race_distance":"306.63km"
             },
-            "Britain" : 
-            {
-                "country" : "Britain", 
-                "track" : "Silverstone", 
-                "length" : "5.891km",
-                "turns" : "18",
-                "laps" : "52", 
-                "race_distance" : "306.198km"
+            "Britain":{
+                "country":"Britain",
+                "track":"Silverstone",
+                "length":"5.891km",
+                "turns":"18",
+                "laps":"52",
+                "race_distance":"306.198km"
             },
-            "70th Aniversary" : 
-            {
-                "country" : "Britain", 
-                "track" : "Silverstone", 
-                "length" : "5.891km",
-                "turns" : "18",
-                "laps" : "52", 
-                "race_distance" : "306.198km"
+            "70th Aniversary":{
+                "country":"Britain",
+                "track":"Silverstone",
+                "length":"5.891km",
+                "turns":"18",
+                "laps":"52",
+                "race_distance":"306.198km"
             },
-            "Spain" : 
-            {
-                "country" : "Spain", 
-                "track_name" : "Circuit De Barcelona-Catalunya",
-                "length" : "4.655km",
-                "turns" : "16",
-                "laps" : "66",
-                "race_distance" : "307.104km"
+            "Spain":{
+                "country":"Spain",
+                "track_name":"Circuit De Barcelona-Catalunya",
+                "length":"4.655km",
+                "turns":"16",
+                "laps":"66",
+                "race_distance":"307.104km"
             },
-            "Belguim" : 
-            {
-                "country" : "Belgium", 
-                "track" : "Spa-Francorchamps",
-                "length" : "7.004km",
-                "turns" : "19",
-                "laps" : "44", 
-                "race_distance" : "308.052km"
+            "Belguim":{
+                "country":"Belgium",
+                "track":"Spa-Francorchamps",
+                "length":"7.004km",
+                "turns":"19",
+                "laps":"44",
+                "race_distance":"308.052km"
             },
-            "Italy" : 
-            {
-                "country" : "Italy",
-                "track" : "Monza",
-                "length" : "5.793km",
-                "turns" : "11",
-                "laps" : "53", 
-                "race_distance" : "306.72km"
+            "Italy":{
+                "country":"Italy",
+                "track":"Monza",
+                "length":"5.793km",
+                "turns":"11",
+                "laps":"53",
+                "race_distance":"306.72km"
             },
-            "Tuscany" : 
-            {
-                "country" : "Italy",
-                "track" : "Mugello",
-                "length" : "5.245km",
-                "turns" : "15",
-                "laps" : "59",
-                "race_distance" : "309.497km"
+            "Tuscany":{
+                "country":"Italy",
+                "track":"Mugello",
+                "length":"5.245km",
+                "turns":"15",
+                "laps":"59",
+                "race_distance":"309.497km"
             },
-            "Russia" : 
-            {
-                "country" : "Russia",
-                "track" : "Sochi Autodrom",
-                "length" : "5.848km",
-                "turns" : "18",
-                "laps" : "53",
-                "race_distance" : "309.745km"
+            "Russia":{
+                "country":"Russia",
+                "track":"Sochi Autodrom",
+                "length":"5.848km",
+                "turns":"18",
+                "laps":"53",
+                "race_distance":"309.745km"
             },
-            "Eifel" : 
-            {
-                "country" : "Germany",
-                "track" : "Nurburgring",
-                "length" : "5.148km",
-                "turns" : "15", 
-                "laps" : "60",
-                "race_distance" : "308.617km"
+            "Eifel":{
+                "country":"Germany",
+                "track":"Nurburgring",
+                "length":"5.148km",
+                "turns":"15",
+                "laps":"60",
+                "race_distance":"308.617km"
             },
-            "Portugal" : 
-            {
-                "country" : "Portugal", 
-                "track" : "Portimao",
-                "length" : "4.653km",
-                "turns" : "15", 
-                "laps" : "66", 
-                "race_distance" : "306.826km"
+            "Portugal":{
+                "country":"Portugal",
+                "track":"Portimao",
+                "length":"4.653km",
+                "turns":"15",
+                "laps":"66",
+                "race_distance":"306.826km"
             },
-            "Emila Romagna" : 
-            {
-                "country" : "Italy", 
-                "track" : "Imola", 
-                "length" : "4.909km",
-                "turns" : "19",
-                "laps" : "63",
-                "race_distance" : "309.049km"
+            "Emila Romagna":{
+                "country":"Italy",
+                "track":"Imola",
+                "length":"4.909km",
+                "turns":"19",
+                "laps":"63",
+                "race_distance":"309.049km"
             },
-            "Turkey" : 
-            {
-                "country" : "Turkey", 
-                "track" : "Istanbul Park", 
-                "length" : "5.338km",
-                "turns" : "14",
-                "laps" : "58",
-                "race_distance" : "309.396km"
+            "Turkey":{
+                "country":"Turkey",
+                "track":"Istanbul Park",
+                "length":"5.338km",
+                "turns":"14",
+                "laps":"58",
+                "race_distance":"309.396km"
             },
-            "Bahrian" :
-            {
-                "country" : "Bahrain",
-                "track_name" : "Bahrain",
-                "length" : "5.412km",
-                "turns" : "15",
-                "laps" : "57",
-                "race_distance" : "308.238km"
+            "Bahrian":{
+                "country":"Bahrain",
+                "track_name":"Bahrain",
+                "length":"5.412km",
+                "turns":"15",
+                "laps":"57",
+                "race_distance":"308.238km"
             },
-            "Sakir" :
-            {
-                "country" : "Bahrain",
-                "track_name" : "Bahrain Outer Circuit",
-                "length" : "3.543km",
-                "turns" : "11",
-                "laps" : "87",
-                "race_distance" : "307.995km"
-            }, 
-            "Abu Dhabi" :
-            {
-                "country" : "Abu Dhabi",
-                "track" : "Yas Marina", 
-                "length" : "5.281km",
-                "turns" : "16",
-                "laps" : "58",
-                "race_distance" : "306.183km"
+            "Sakir":{
+                "country":"Bahrain",
+                "track_name":"Bahrain Outer Circuit",
+                "length":"3.543km",
+                "turns":"11",
+                "laps":"87",
+                "race_distance":"307.995km"
+            },
+            "Abu Dhabi":{
+                "country":"Abu Dhabi",
+                "track":"Yas Marina",
+                "length":"5.281km",
+                "turns":"16",
+                "laps":"58",
+                "race_distance":"306.183km"
             }
         }
     ],
-    "2021" : [
+    "2021":[
         {
-            "Bahrian" :
-            {
-                "country" : "Bahrain",
-                "track_name" : "Bahrain",
-                "length" : "5.412km",
-                "turns" : "15",
-                "laps" : "57",
-                "race_distance" : "308.238km"
+            "Bahrian":{
+                "country":"Bahrain",
+                "track_name":"Bahrain",
+                "length":"5.412km",
+                "turns":"15",
+                "laps":"57",
+                "race_distance":"308.238km"
             },
-            "Emila Romagna" : 
-            {
-                "country" : "Italy", 
-                "track" : "Imola", 
-                "length" : "4.909km",
-                "turns" : "19",
-                "laps" : "63",
-                "race_distance" : "309.049km"
+            "Emila Romagna":{
+                "country":"Italy",
+                "track":"Imola",
+                "length":"4.909km",
+                "turns":"19",
+                "laps":"63",
+                "race_distance":"309.049km"
             },
-            "Portugal" : 
-            {
-                "country" : "Portugal", 
-                "track" : "Portimao",
-                "length" : "4.653km",
-                "turns" : "15", 
-                "laps" : "66", 
-                "race_distance" : "306.826km"
+            "Portugal":{
+                "country":"Portugal",
+                "track":"Portimao",
+                "length":"4.653km",
+                "turns":"15",
+                "laps":"66",
+                "race_distance":"306.826km"
             },
-            "Spain" : 
-            {
-                "country" : "Spain", 
-                "track_name" : "Circuit De Barcelona-Catalunya",
-                "length" : "4.655km",
-                "turns" : "16",
-                "laps" : "66",
-                "race_distance" : "307.104km"
+            "Spain":{
+                "country":"Spain",
+                "track_name":"Circuit De Barcelona-Catalunya",
+                "length":"4.655km",
+                "turns":"16",
+                "laps":"66",
+                "race_distance":"307.104km"
             },
-            "Monaco" :
-            {
-                "country" : "Monaco", 
-                "track" : "Monaco",
-                "length" : "3.337km",
-                "turns" : "19",
-                "laps" : "78",
-                "race_distance" : "260.286km"
+            "Monaco":{
+                "country":"Monaco",
+                "track":"Monaco",
+                "length":"3.337km",
+                "turns":"19",
+                "laps":"78",
+                "race_distance":"260.286km"
             },
-            "Azerbaijan" :
-            {
-                "country" : "Azerbaijan",
-                "track" : "Baku City Circuit",
-                "length" : "6.003km",
-                "turns" : "20",
-                "laps" : "51", 
-                "race_distance" : "306.049km"
+            "Azerbaijan":{
+                "country":"Azerbaijan",
+                "track":"Baku City Circuit",
+                "length":"6.003km",
+                "turns":"20",
+                "laps":"51",
+                "race_distance":"306.049km"
             },
-            "France" : 
-            {
-                "country" : "France", 
-                "track" : "Paul Ricard",
-                "length" : "5.842km",
-                "turns" : "15",
-                "laps" : "53",
-                "race_distance" : "309.69"
+            "France":{
+                "country":"France",
+                "track":"Paul Ricard",
+                "length":"5.842km",
+                "turns":"15",
+                "laps":"53",
+                "race_distance":"309.69"
             },
-            "Styria" : 
-            {
-                "country" : "Austria", 
-                "track" : "Red Bull Ring",
-                "length" : "4.318km", 
-                "turns" : "10",
-                "laps" : "71",
-                "race_distance" : "306.452km"
+            "Styria":{
+                "country":"Austria",
+                "track":"Red Bull Ring",
+                "length":"4.318km",
+                "turns":"10",
+                "laps":"71",
+                "race_distance":"306.452km"
             },
-            "Austria" : 
-            {
-                "country" : "Austria", 
-                "track" : "Red Bull Ring",
-                "length" : "4.318km", 
-                "turns" : "10",
-                "laps" : "71",
-                "race_distance" : "306.452km"
+            "Austria":{
+                "country":"Austria",
+                "track":"Red Bull Ring",
+                "length":"4.318km",
+                "turns":"10",
+                "laps":"71",
+                "race_distance":"306.452km"
             },
-            "Britain" : 
-            {
-                "country" : "Britain", 
-                "track" : "Silverstone", 
-                "length" : "5.891km",
-                "turns" : "18",
-                "laps" : "52", 
-                "race_distance" : "306.198km"
+            "Britain":{
+                "country":"Britain",
+                "track":"Silverstone",
+                "length":"5.891km",
+                "turns":"18",
+                "laps":"52",
+                "race_distance":"306.198km"
             },
-            "Hungary" : 
-            {
-                "country" : "Hungary",
-                "track" : "Hungaroring",
-                "length" : "4.381km",
-                "turns" : "14", 
-                "laps" : "70", 
-                "race_distance" : "306.63km"
+            "Hungary":{
+                "country":"Hungary",
+                "track":"Hungaroring",
+                "length":"4.381km",
+                "turns":"14",
+                "laps":"70",
+                "race_distance":"306.63km"
             },
-            "Belguim" : 
-            {
-                "country" : "Belgium", 
-                "track" : "Spa-Francorchamps",
-                "length" : "7.004km",
-                "turns" : "19",
-                "laps" : "44", 
-                "race_distance" : "308.052km"
+            "Belguim":{
+                "country":"Belgium",
+                "track":"Spa-Francorchamps",
+                "length":"7.004km",
+                "turns":"19",
+                "laps":"44",
+                "race_distance":"308.052km"
             },
-            "Netherlands" : 
-            {
-                "country" : "Netherlands", 
-                "track" : "Zandvoort", 
-                "length" : "4.259km",
-                "turns" : "14",
-                "laps" : "72",
-                "race_distance" : "306.587km"
+            "Netherlands":{
+                "country":"Netherlands",
+                "track":"Zandvoort",
+                "length":"4.259km",
+                "turns":"14",
+                "laps":"72",
+                "race_distance":"306.587km"
             },
-            "Italy" : 
-            {
-                "country" : "Italy",
-                "track" : "Monza",
-                "length" : "5.793km",
-                "turns" : "11",
-                "laps" : "53", 
-                "race_distance" : "306.72km"
+            "Italy":{
+                "country":"Italy",
+                "track":"Monza",
+                "length":"5.793km",
+                "turns":"11",
+                "laps":"53",
+                "race_distance":"306.72km"
             },
-            "Russia" : 
-            {
-                "country" : "Russia",
-                "track" : "Sochi Autodrom",
-                "length" : "5.848km",
-                "turns" : "18",
-                "laps" : "53",
-                "race_distance" : "309.745km"
+            "Russia":{
+                "country":"Russia",
+                "track":"Sochi Autodrom",
+                "length":"5.848km",
+                "turns":"18",
+                "laps":"53",
+                "race_distance":"309.745km"
             },
-            "Turkey" : 
-            {
-                "country" : "Turkey", 
-                "track" : "Istanbul Park", 
-                "length" : "5.338km",
-                "turns" : "14",
-                "laps" : "58",
-                "race_distance" : "309.396km"
+            "Turkey":{
+                "country":"Turkey",
+                "track":"Istanbul Park",
+                "length":"5.338km",
+                "turns":"14",
+                "laps":"58",
+                "race_distance":"309.396km"
             },
-            "USA" :
-            {
-                "country" : "USA",
-                "track" : "Circuit of The Americas",
-                "length" : "5.513km",
-                "turns" : "20",
-                "laps" : "56",
-                "race_distance" : "308.405km"
+            "USA":{
+                "country":"USA",
+                "track":"Circuit of The Americas",
+                "length":"5.513km",
+                "turns":"20",
+                "laps":"56",
+                "race_distance":"308.405km"
             }
         }
     ]
